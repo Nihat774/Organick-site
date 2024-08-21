@@ -1,0 +1,32 @@
+{
+    "newProducts": [
+        {   
+            "situation":"Health",
+            "img": "./public/Home/products/newbean.png",
+            "name": "Mung Bean",
+            "oldPrice": "$20",
+            "price": "$11"
+        },
+        {
+            "situation":"Nuts",
+            "img": "./public/Home/products/white-hazelnut.png",
+            "name": "White Hazelnut",
+            "oldPrice": "$20",
+            "price": "$12"
+        },
+        {
+            "situation":"Fresh",
+            "img": "./public/Home/products/corn.png",
+            "name": "Fresh Corn",
+            "oldPrice": "$20",
+            "price": "$17"
+        },
+        {
+            "situation":"Fresh",
+            "img": "./public/Home/products/coffee.png",
+            "name": "Organic Almonds",
+            "oldPrice": "$20",
+            "price": "$15"
+        }
+    ]
+}
